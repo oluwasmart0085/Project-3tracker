@@ -66,4 +66,4 @@ $ timetrack rename newdemo
 
 ## Author
 * **Lebi OLuwasoji** - 
-* **Oluwatobi Amoniyan
+* **Oluwatobi Amoniyan** - amoniyano1@gmail.com
