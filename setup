@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+FOLDER_PATH="$(pwd)"
+if grep -q "alias timetrack" ~/.bashrc
+then
+    echo 'Error: timetrack alias is already in your .bashrc file.'
+else
+    echo "alias timetrack='python $FOLDER_PATH/timetrack.py'" >> ~/.bashrc
+    echo "Alias timetrack has been inserted into your .bashrc"
+    source ~/.bashrc
+    echo "Refreshed .bashrc"
+fi
