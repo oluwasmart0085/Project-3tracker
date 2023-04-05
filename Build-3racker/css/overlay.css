@@ -1,0 +1,183 @@
+.overlay-overlay {
+    width: 100%;
+    height: 586px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(5, 0, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 0 9px 9px 0;
+    background-color: rgba(116, 81, 246, 1);
+  }
+  .overlay-text {
+    top: 52px;
+    left: 50px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.49056625366211px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .overlay-text02 {
+    top: 128px;
+    left: 71px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.49056625366211px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .overlay-text04 {
+    top: 204.18865966796875px;
+    left: 59px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.49056625366211px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .overlay-text06 {
+    top: 281px;
+    left: 39px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.49056625366211px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .overlay-text08 {
+    top: 357px;
+    left: 79px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.49056625366211px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .overlay-text10 {
+    top: 433px;
+    left: 71px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.49056625366211px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .overlay-text12 {
+    top: 509px;
+    left: 29px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.49056625366211px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .overlay-line11 {
+    top: 244px;
+    left: 0px;
+    width: 232px;
+    height: 0px;
+    position: absolute;
+  }
+  .overlay-line13 {
+    top: 320px;
+    left: 0px;
+    width: 232px;
+    height: 0px;
+    position: absolute;
+  }
+  .overlay-line14 {
+    top: 396px;
+    left: 0px;
+    width: 232px;
+    height: 0px;
+    position: absolute;
+  }
+  .overlay-line15 {
+    top: 472px;
+    left: 0px;
+    width: 232px;
+    height: 0px;
+    position: absolute;
+  }
+  .overlay-line10 {
+    top: 167px;
+    left: 0px;
+    width: 232px;
+    height: 0px;
+    position: absolute;
+  }
+  .overlay-line12 {
+    top: 91px;
+    left: 0px;
+    width: 232px;
+    height: 0px;
+    position: absolute;
+  }
+  
