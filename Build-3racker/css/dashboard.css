@@ -1,0 +1,772 @@
+.dashboard-loggedin-page {
+    width: 100%;
+    height: 2868px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-image: linear-gradient(180deg, rgba(255, 255, 255, 1) 100%, rgba(61, 165, 147, 1) 100%, rgba(255, 255, 255, 1) 100%, rgba(131, 100, 242, 1) 100%);
+  }
+  .dashboard-frame8 {
+    top: 198px;
+    left: 230px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 8px 10px 7px -2px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(253, 0, 0, 1);
+    border-radius: 17.37592124938965px;
+    background-color: rgba(116, 81, 246, 1);
+  }
+  .dashboard-text {
+    top: 119.99998474121094px;
+    left: 47.00001907348633px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-frame22 {
+    top: 198px;
+    left: 615px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 8px 10px 7px -2px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(255, 4, 4, 1);
+    border-radius: 17.37592124938965px;
+    background-color: rgba(116, 81, 246, 1);
+  }
+  .dashboard-text02 {
+    top: 119.99998474121094px;
+    left: 61.00001907348633px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-frame23 {
+    top: 199px;
+    left: 1000px;
+    width: 272px;
+    height: 272px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    box-shadow: 8px 10px 7px -2px rgba(0, 0, 0, 0.25) ;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(42, 40, 136, 1);
+    border-radius: 17.37592124938965px;
+    background-color: rgba(116, 81, 246, 1);
+  }
+  .dashboard-text04 {
+    top: 119.99998474121094px;
+    left: 101.00001525878906px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 27px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-frame13 {
+    top: 534.875px;
+    left: 230px;
+    width: 468px;
+    height: 330.26580810546875px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(5, 0, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 13.329113960266113px;
+  }
+  .dashboard-rectangle1 {
+    top: 65.16458129882812px;
+    left: 54.79747009277344px;
+    width: 41px;
+    height: 209px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .dashboard-rectangle2 {
+    top: 130.32913208007812px;
+    left: 290.2784729003906px;
+    width: 41px;
+    height: 144px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .dashboard-rectangle5 {
+    top: 35.54432678222656px;
+    left: 368.77215576171875px;
+    width: 41px;
+    height: 238px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .dashboard-rectangle3 {
+    top: 216.22787475585938px;
+    left: 133.2911376953125px;
+    width: 41px;
+    height: 58px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .dashboard-rectangle4 {
+    top: 97.74685668945312px;
+    left: 211.78480529785156px;
+    width: 41px;
+    height: 176px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .dashboard-text06 {
+    top: 273.98736572265625px;
+    left: 53.31645584106445px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17.772151947021484px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text08 {
+    top: 273.98736572265625px;
+    left: 128.8480987548828px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17.772151947021484px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text10 {
+    top: 273.98736572265625px;
+    left: 211.7088623046875px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17.772151947021484px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text12 {
+    top: 273.98736572265625px;
+    left: 290.240478515625px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17.772151947021484px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text14 {
+    top: 273.98736572265625px;
+    left: 370.253173828125px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 17.772151947021484px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text16 {
+    top: 504px;
+    left: 332px;
+    color: rgba(205, 12, 12, 1);
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-frame15 {
+    top: 535px;
+    left: 814px;
+    width: 468px;
+    height: 330.2699890136719px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(5, 0, 255, 1);
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 13.329999923706055px;
+  }
+  .dashboard-text18 {
+    top: 55.4429931640625px;
+    left: 13.825927734375px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.5852108001709px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text20 {
+    top: 103.4752197265625px;
+    left: 96.166748046875px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.5852108001709px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text22 {
+    top: 151.50732421875px;
+    left: 113.321044921875px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.5852108001709px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text24 {
+    top: 199.53955078125px;
+    left: 77.296875px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.5852108001709px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text26 {
+    top: 247.5716552734375px;
+    left: 103.0284423828125px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 20.5852108001709px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-line1 {
+    top: 74px;
+    left: 220px;
+    width: 226px;
+    height: 0px;
+    position: absolute;
+  }
+  .dashboard-line2 {
+    top: 122.2152099609375px;
+    left: 220px;
+    width: 136px;
+    height: 0px;
+    position: absolute;
+  }
+  .dashboard-line3 {
+    top: 170.43048095703125px;
+    left: 220px;
+    width: 226px;
+    height: 0px;
+    position: absolute;
+  }
+  .dashboard-line4 {
+    top: 218.6456298828125px;
+    left: 220px;
+    width: 181px;
+    height: 0px;
+    position: absolute;
+  }
+  .dashboard-line5 {
+    top: 266.86077880859375px;
+    left: 220px;
+    width: 79px;
+    height: 0px;
+    position: absolute;
+  }
+  .dashboard-text28 {
+    top: 504px;
+    left: 942px;
+    color: rgba(205, 12, 12, 1);
+    height: auto;
+    position: absolute;
+    font-size: 25px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-frame12 {
+    top: 1050.1187744140625px;
+    left: 78.76220703125px;
+    width: 649px;
+    height: 457.8811340332031px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(5, 0, 255, 1);
+    border-style: solid;
+    border-width: 0.8492618799209595px;
+    border-radius: 18.479507446289062px;
+  }
+  .dashboard-uilsetting {
+    top: 8.21323299407959px;
+    left: 597.50390625px;
+    width: 45px;
+    height: 45px;
+    opacity: 0.70;
+    position: absolute;
+  }
+  .dashboard-text30 {
+    top: 53.38536834716797px;
+    left: 26.692447662353516px;
+    color: rgba(0, 0, 0, 1);
+    width: 602px;
+    height: auto;
+    position: absolute;
+    font-size: 26.692623138427734px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-frame14 {
+    top: 1051.5318603515625px;
+    left: 785.0009765625px;
+    width: 649px;
+    height: 457.8800048828125px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(5, 0, 255, 1);
+    border-style: solid;
+    border-width: 0.8500000238418579px;
+    border-radius: 18.341766357421875px;
+  }
+  .dashboard-text43 {
+    top: 1008.734375px;
+    left: 901.16552734375px;
+    color: rgba(205, 12, 12, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32.849998474121094px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-image1 {
+    top: 1074.21533203125px;
+    left: 799.2666015625px;
+    width: 615px;
+    height: 327px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .dashboard-text45 {
+    top: 1007px;
+    left: 210.171875px;
+    color: rgba(205, 12, 12, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32.85245895385742px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text47 {
+    top: 1630px;
+    left: 497px;
+    color: rgba(205, 12, 12, 1);
+    height: auto;
+    position: absolute;
+    font-size: 32.849998474121094px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-frame16 {
+    top: 1677.230224609375px;
+    left: 98px;
+    width: 1317px;
+    height: 457.769775390625px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(5, 0, 255, 1);
+    border-style: solid;
+    border-width: 1.8165467977523804px;
+    border-radius: 16.348920822143555px;
+  }
+  .dashboard-unnamed1 {
+    top: 30.88121795654297px;
+    left: 2.671375036239624px;
+    width: 1305px;
+    height: 400px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .dashboard-frame43 {
+    top: 0px;
+    left: 0px;
+    width: 1512px;
+    height: 91px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .dashboard-materialsymbolskeyboardarrowdownrounded {
+    top: 32px;
+    left: 758px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .dashboard-materialsymbolskeyboardarrowdownrounded1 {
+    top: 32px;
+    left: 897px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .dashboard-menusvg {
+    top: 24px;
+    left: 37px;
+    width: 38px;
+    height: 38px;
+    position: absolute;
+  }
+  .dashboard-arrowdownsvg {
+    top: 32px;
+    left: 465px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .dashboard-getstartedgreesvg {
+    top: 20px;
+    left: 1237px;
+    width: 261px;
+    height: 47px;
+    position: absolute;
+  }
+  .dashboard-text49 {
+    top: 27.992889404296875px;
+    left: 349px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text51 {
+    top: 27.992889404296875px;
+    left: 651px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text53 {
+    top: 27.992889404296875px;
+    left: 809px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text55 {
+    top: 27.992889404296875px;
+    left: 1101.1171875px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-text57 {
+    top: 28px;
+    left: 519px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .dashboard-searchsvg {
+    top: 30.254180908203125px;
+    left: 950.76171875px;
+    width: 121px;
+    height: 29px;
+    position: absolute;
+  }
+  .dashboard-homeclick {
+    top: 25px;
+    left: 123px;
+    width: 178px;
+    height: 41px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .dashboard-text59 {
+    top: 2.086090087890625px;
+    left: 50px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 34.458251953125px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: abeatbyKai;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .dashboard-svg3rackerlinesvg {
+    top: 41px;
+    left: 48px;
+    width: 130px;
+    height: 0px;
+    position: absolute;
+  }
+  .dashboard-newclock2 {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    border-color: transparent;
+  }
+  
