@@ -1,0 +1,446 @@
+.login-page-login-page {
+    width: 1538px;
+    height: 982px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .login-page-frame40 {
+    top: 232px;
+    left: 843.3115234375px;
+    width: 432px;
+    height: 67.06281280517578px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(74, 21, 74, 1);
+    border-style: solid;
+    border-width: 1.6356784105300903px;
+    border-radius: 19.628141403198242px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .login-page-text {
+    top: 16.356761932373047px;
+    left: 140.6683807373047px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.571147918701172px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-frame41 {
+    top: 335.0477294921875px;
+    left: 843.3115234375px;
+    width: 432px;
+    height: 67.06281280517578px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(74, 21, 74, 1);
+    border-style: solid;
+    border-width: 1.6356784105300903px;
+    border-radius: 19.628141403198242px;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .login-page-text02 {
+    top: 16.35677146911621px;
+    left: 150.48245239257812px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.571147918701172px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-text04 {
+    top: 555.8642578125px;
+    left: 928.36669921875px;
+    color: rgba(74, 21, 74, 1);
+    height: auto;
+    position: absolute;
+    font-size: 22.899497985839844px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-frame42 {
+    top: 442.46343994140625px;
+    left: 915.28125px;
+    width: 309px;
+    height: 48.0108757019043px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: rgba(74, 21, 74, 1);
+    border-style: solid;
+    border-width: 1.170997142791748px;
+    border-radius: 14.05196475982666px;
+    background-color: rgba(116, 81, 246, 1);
+  }
+  .login-page-text06 {
+    top: 11.70996379852295px;
+    left: 107.73210144042969px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 19.022525787353516px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-frame30 {
+    top: 649.0979614257812px;
+    left: 719px;
+    width: 292px;
+    height: 63.79145812988281px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 6.326426029205322px;
+    background-color: rgba(116, 81, 246, 1);
+  }
+  .login-page-materialsymbolsmailoutline {
+    top: 6.326380729675293px;
+    left: 8.961888313293457px;
+    width: 51px;
+    height: 51px;
+    position: absolute;
+  }
+  .login-page-text08 {
+    top: 21.0880184173584px;
+    left: 69.06348419189453px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18.452075958251953px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-frame29 {
+    top: 649.0979614257812px;
+    left: 1078.849609375px;
+    width: 291px;
+    height: 63.59069061279297px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    border-radius: 6.306514263153076px;
+    background-color: rgba(74, 21, 74, 1);
+  }
+  .login-page-text10 {
+    top: 21.021728515625px;
+    left: 59.38642120361328px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 18.394001007080078px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-frame301 {
+    top: 11.036343574523926px;
+    left: 7.356995105743408px;
+    width: 43px;
+    height: 41.51789093017578px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-size: cover;
+    background-image: url("/playground_assets/44def4c9-f96c-49c4-8662-1f305c17bec3-6dd-1500h.undefined");
+  }
+  .login-page-frame43 {
+    top: -6px;
+    left: 0px;
+    width: 1512px;
+    height: 91px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+  }
+  .login-page-materialsymbolskeyboardarrowdownrounded {
+    top: 32px;
+    left: 758px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .login-page-materialsymbolskeyboardarrowdownrounded1 {
+    top: 32px;
+    left: 897px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .login-page-menusvg {
+    top: 24px;
+    left: 37px;
+    width: 38px;
+    height: 38px;
+    position: absolute;
+  }
+  .login-page-arrowdownsvg {
+    top: 32px;
+    left: 465px;
+    width: 29px;
+    height: 29px;
+    position: absolute;
+  }
+  .login-page-getstartedgreesvg {
+    top: 20px;
+    left: 1240px;
+    width: 212px;
+    height: 47px;
+    position: absolute;
+  }
+  .login-page-text12 {
+    top: 27.992889404296875px;
+    left: 349px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-text14 {
+    top: 27.992889404296875px;
+    left: 651px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-text16 {
+    top: 27.992889404296875px;
+    left: 809px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-text18 {
+    top: 27.992889404296875px;
+    left: 1122.1171875px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-text20 {
+    top: 28px;
+    left: 519px;
+    color: rgba(16, 11, 250, 1);
+    height: auto;
+    position: absolute;
+    font-size: 26.41458511352539px;
+    align-self: auto;
+    font-style: Bold;
+    text-align: left;
+    font-family: Inter;
+    font-weight: 700;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-searchsvg {
+    top: 30.254180908203125px;
+    left: 962.76171875px;
+    width: 121px;
+    height: 29px;
+    position: absolute;
+  }
+  .login-page-homeclick {
+    top: 25px;
+    left: 123px;
+    width: 178px;
+    height: 41px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .login-page-text22 {
+    top: 2.086090087890625px;
+    left: 50px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 34.458251953125px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: abeatbyKai;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .login-page-svg3rackerlinesvg {
+    top: 41px;
+    left: 48px;
+    width: 130px;
+    height: 0px;
+    position: absolute;
+  }
+  .login-page-newclock2 {
+    top: 0px;
+    left: 0px;
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .login-page-text24 {
+    top: 180px;
+    left: 140px;
+    color: rgba(0, 0, 0, 1);
+    height: auto;
+    position: absolute;
+    font-size: 125.34688568115234px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: abeatbyKai;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .login-page-newclock {
+    top: 386px;
+    left: 177px;
+    width: 382px;
+    height: 382px;
+    position: absolute;
+  }
+  .login-page-svg3rackerlinebig {
+    top: 306.0000305175781px;
+    left: 245px;
+    width: 279px;
+    height: 0px;
+    position: absolute;
+  }
+  
